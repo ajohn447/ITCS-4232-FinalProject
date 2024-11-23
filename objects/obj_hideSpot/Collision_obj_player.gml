@@ -6,3 +6,4 @@ if obj_player.is_hidden{
 else{
 	solid = false;	
 }
+

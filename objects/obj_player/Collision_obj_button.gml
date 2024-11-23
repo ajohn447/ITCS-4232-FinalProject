@@ -5,4 +5,5 @@ if(keyboard_check_pressed(ord(interact_key))){
 		if (other.door_buttonNum = obj_buttonDoor.door_buttonNum){
 			instance_destroy(obj_buttonDoor);	
 		}
+		other.sprite_index = spr_button_pressed;
 }
