@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_buttonDoor",
+  "%Name":"spr_roomTiles2",
   "bboxMode":0,
-  "bbox_bottom":95,
+  "bbox_bottom":383,
   "bbox_left":0,
-  "bbox_right":63,
+  "bbox_right":703,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f1948378-a1a3-4dc9-afae-c062806c791b","name":"f1948378-a1a3-4dc9-afae-c062806c791b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"540958ff-19b6-497c-82fd-f086c0f60031","name":"540958ff-19b6-497c-82fd-f086c0f60031","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":96,
+  "height":384,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"7d61aa15-b119-416b-bb0e-ea378da23a78","blendMode":0,"displayName":"default","isLocked":false,"name":"7d61aa15-b119-416b-bb0e-ea378da23a78","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"e0cbe2b1-7d43-446e-8abd-a447fc1fe4e4","blendMode":0,"displayName":"default","isLocked":false,"name":"e0cbe2b1-7d43-446e-8abd-a447fc1fe4e4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_buttonDoor",
+  "name":"spr_roomTiles2",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_buttonDoor",
+    "%Name":"spr_roomTiles2",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_buttonDoor",
+    "name":"spr_roomTiles2",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,14 +69,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f1948378-a1a3-4dc9-afae-c062806c791b","path":"sprites/spr_buttonDoor/spr_buttonDoor.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0a3ed10f-99b7-4603-ac06-e469421a03bd","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"540958ff-19b6-497c-82fd-f086c0f60031","path":"sprites/spr_roomTiles2/spr_roomTiles2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"2eb1093f-5b03-4b8f-90e5-69f640470de3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":32,
-    "yorigin":48,
+    "xorigin":352,
+    "yorigin":192,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":704,
 }

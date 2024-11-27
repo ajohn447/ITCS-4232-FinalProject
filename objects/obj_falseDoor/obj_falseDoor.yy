@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_nextRoomDoor",
-    "path":"sprites/spr_nextRoomDoor/spr_nextRoomDoor.yy",
+    "name":"spr_buttonDoor",
+    "path":"sprites/spr_buttonDoor/spr_buttonDoor.yy",
   },
   "spriteMaskId":null,
   "visible":true,
