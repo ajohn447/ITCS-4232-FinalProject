@@ -32,5 +32,5 @@
     "path":"sprites/spr_nonSolBlock/spr_nonSolBlock.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

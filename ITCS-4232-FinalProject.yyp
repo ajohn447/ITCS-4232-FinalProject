@@ -76,6 +76,7 @@
     {"id":{"name":"spr_button_pressed","path":"sprites/spr_button_pressed/spr_button_pressed.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"spr_buttonDoor","path":"sprites/spr_buttonDoor/spr_buttonDoor.yy",},},
+    {"id":{"name":"spr_enemy_1","path":"sprites/spr_enemy_1/spr_enemy_1.yy",},},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
     {"id":{"name":"spr_FinishLine","path":"sprites/spr_FinishLine/spr_FinishLine.yy",},},
     {"id":{"name":"spr_hideSpot","path":"sprites/spr_hideSpot/spr_hideSpot.yy",},},

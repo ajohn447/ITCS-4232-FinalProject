@@ -32,5 +32,5 @@
     "path":"sprites/spr_ladder/spr_ladder.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
