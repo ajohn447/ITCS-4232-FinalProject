@@ -10,13 +10,13 @@ if (instance_place(x,y, obj_ladder)){
 		gravity = 0;
 		sprite_index = spr_player_climb
 		image_speed = 1;
-		image_xscale *= -1;
 	}
 	if (keyboard_check(vk_down)){
 		climbing = true;
 		vspeed = 0;
 		gravity = 0;
 		sprite_index = spr_player_climb
+		image_speed = 1;
 	}
 }
 else{
