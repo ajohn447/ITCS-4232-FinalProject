@@ -8,6 +8,8 @@ if (!is_hidden){
 		y = original_y;
 	}
 	else{
-			instance_destroy();
+			obj_charStats.attempts_left -= 1;
+			obj_charStats.loss = true;
+			room_goto(rm_WinOrLoss);
 	}
 }

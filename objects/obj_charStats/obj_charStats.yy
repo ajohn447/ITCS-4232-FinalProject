@@ -28,6 +28,7 @@
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"has_key","filters":[],"listItems":[],"multiselect":false,"name":"has_key","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
     {"$GMObjectProperty":"v1","%Name":"attempts_left","filters":[],"listItems":[],"multiselect":false,"name":"attempts_left","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"loss","filters":[],"listItems":[],"multiselect":false,"name":"loss","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"true","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

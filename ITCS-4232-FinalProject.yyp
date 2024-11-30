@@ -67,6 +67,7 @@
     {"id":{"name":"obj_nextRoomDoor","path":"objects/obj_nextRoomDoor/obj_nextRoomDoor.yy",},},
     {"id":{"name":"obj_nonSolBlock","path":"objects/obj_nonSolBlock/obj_nonSolBlock.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_winORLosstxt","path":"objects/obj_winORLosstxt/obj_winORLosstxt.yy",},},
     {"id":{"name":"rm_EndScene","path":"rooms/rm_EndScene/rm_EndScene.yy",},},
     {"id":{"name":"rm_fifthRoom","path":"rooms/rm_fifthRoom/rm_fifthRoom.yy",},},
     {"id":{"name":"rm_finalRoom","path":"rooms/rm_finalRoom/rm_finalRoom.yy",},},
@@ -76,6 +77,7 @@
     {"id":{"name":"rm_sixthRoom","path":"rooms/rm_sixthRoom/rm_sixthRoom.yy",},},
     {"id":{"name":"rm_startRoom","path":"rooms/rm_startRoom/rm_startRoom.yy",},},
     {"id":{"name":"rm_thirdRoom","path":"rooms/rm_thirdRoom/rm_thirdRoom.yy",},},
+    {"id":{"name":"rm_WinOrLoss","path":"rooms/rm_WinOrLoss/rm_WinOrLoss.yy",},},
     {"id":{"name":"spr_back","path":"sprites/spr_back/spr_back.yy",},},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
     {"id":{"name":"spr_button_pressed","path":"sprites/spr_button_pressed/spr_button_pressed.yy",},},
@@ -119,6 +121,7 @@
     {"roomId":{"name":"rm_sixthRoom","path":"rooms/rm_sixthRoom/rm_sixthRoom.yy",},},
     {"roomId":{"name":"rm_finalRoom","path":"rooms/rm_finalRoom/rm_finalRoom.yy",},},
     {"roomId":{"name":"rm_EndScene","path":"rooms/rm_EndScene/rm_EndScene.yy",},},
+    {"roomId":{"name":"rm_WinOrLoss","path":"rooms/rm_WinOrLoss/rm_WinOrLoss.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

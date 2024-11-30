@@ -3,3 +3,4 @@
 
 sprite_index = spr_playerAwake;
 
+alarm[1] = 120;
