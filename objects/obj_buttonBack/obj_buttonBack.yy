@@ -1,0 +1,43 @@
+{
+  "$GMObject":"",
+  "%Name":"obj_buttonBack",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+  "managed":true,
+  "name":"obj_buttonBack",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_menuButton","path":"objects/obj_menuButton/obj_menuButton.yy",},"propertyId":{"name":"button_text","path":"objects/obj_menuButton/obj_menuButton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Main Menu",},
+  ],
+  "parent":{
+    "name":"Menu Objects",
+    "path":"folders/Objects/Menu Objects.yy",
+  },
+  "parentObjectId":{
+    "name":"obj_menuButton",
+    "path":"objects/obj_menuButton/obj_menuButton.yy",
+  },
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":1,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[],
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":{
+    "name":"spr_MenuButton",
+    "path":"sprites/spr_MenuButton/spr_MenuButton.yy",
+  },
+  "spriteMaskId":null,
+  "visible":true,
+}

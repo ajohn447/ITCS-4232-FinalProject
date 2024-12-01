@@ -108,7 +108,7 @@
     {"$GMRTileLayer":"","%Name":"Tiles_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_1","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":18,"SerialiseWidth":23,"TileCompressedData":[
           -60,-2147483648,2,60,42,-13,-2147483648,3,43,0,0,-5,-2147483648,2,51,57,-18,-2147483648,5,0,-2147483648,
           -2147483648,51,52,-21,-2147483648,2,51,52,-54,-2147483648,1,58,-146,-2147483648,2,60,42,-21,-2147483648,
-          2,51,52,-21,-2147483648,2,56,57,-34,-2147483648,
+          2,51,52,-21,-2147483648,2,56,57,-13,-2147483648,1,26,-20,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"tl_FullAndHalves","path":"tilesets/tl_FullAndHalves/tl_FullAndHalves.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"Tiles_2","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_2","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":18,"SerialiseWidth":23,"TileCompressedData":[
           1,17,-3,24,-2,23,-14,24,-2,23,2,46,21,-21,-2147483648,2,46,28,-5,50,-7,-2147483648,5,50,42,60,42,-2147483648,
