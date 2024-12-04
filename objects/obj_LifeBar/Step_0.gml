@@ -1,7 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if(obj_charStats.attempts_left == 4){
+
+//Based on how many lives the player has left the health bar will adjust 
+	//Even though the player only has 3 lives there are enough images allowing for up to 5 lives if this needed to be changed
+if(obj_charStats.attempts_left == 4){ 
 	image_index = 1;	
 }
 

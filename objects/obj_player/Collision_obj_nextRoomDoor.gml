@@ -1,3 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description General code for going to next room
+audio_play_sound(snd_doorOpen,2,false);
 room_goto(other.doorTo);

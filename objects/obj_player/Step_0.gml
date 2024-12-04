@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-
+//Setting up player so they can climb if they are infront of a ladder 
 if (instance_place(x,y, obj_ladder)){
 	if(keyboard_check(vk_up)){	
 		climbing = true;
@@ -24,7 +24,7 @@ else{
 	sprite_index = spr_player_walk
 }
 
-if climbing{
+if climbing{ //Actual code for climbing
 	if(keyboard_check(vk_up)){
 		y += -move_speed;
 	}
@@ -37,30 +37,38 @@ if climbing{
 	gravity = 0;
 }
 else{
-	if(keyboard_check(vk_left) and !instance_place(x-move_speed, y, obj_block)){
+	if(keyboard_check(vk_left) and !instance_place(x-move_speed, y, obj_block)){ //Walk left
 		x += -move_speed;
 		sprite_index = spr_player_walk
 		image_xscale = -1;
 		image_speed = 1;
+		if(!audio_is_playing(snd_playerFootstep)){
+			audio_play_sound(snd_playerFootstep, 1, false);	
+		}
 		
 	}
-	else if(keyboard_check(vk_right) and !instance_place(x+move_speed, y, obj_block)){
+	else if(keyboard_check(vk_right) and !instance_place(x+move_speed, y, obj_block)){ //Walk right
 		x += move_speed;
 		sprite_index = spr_player_walk
 		image_xscale = 1;
 		image_speed = 1;
+		if(!audio_is_playing(snd_playerFootstep)){
+			audio_play_sound(snd_playerFootstep, 1, false);	
+		}
 	}
-	else{
+	else{  //Stand
 		sprite_index = spr_player
 		image_speed = 0;
 	}
 	
-	if(keyboard_check(vk_up)){
+	if(keyboard_check(vk_up)){   //Jump
 		if (instance_place(x, y + 1 ,obj_block)){
 			vspeed = jump_height;	
 		}
 	}
 	
+	
+	//Proper gravity (if player is on or off a block)
 	if(!instance_place(x,y + 1 ,obj_block)){
 		gravity = .25;	
 	}

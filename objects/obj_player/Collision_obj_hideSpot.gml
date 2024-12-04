@@ -1,6 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Players hiding code
 
+//If the player is not hiding they can press E to hide
 if (obj_player.is_hidden == false and keyboard_check_pressed(ord(interact_key))){
 	obj_player.is_hidden = true;
 	obj_player.visible = false;
@@ -8,7 +8,7 @@ if (obj_player.is_hidden == false and keyboard_check_pressed(ord(interact_key)))
 	obj_player.y = other.y;
 }
 
-
+//If player is hidden they can press Q to unhide
 if(obj_player.is_hidden == true and keyboard_check_pressed(ord(unhide_key))){
 	obj_player.y = other.y - 15;
 	obj_player.is_hidden = false;
