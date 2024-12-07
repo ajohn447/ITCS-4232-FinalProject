@@ -70,7 +70,10 @@ else{
 	
 	//Proper gravity (if player is on or off a block)
 	if(!instance_place(x,y + 1 ,obj_block)){
-		gravity = .25;	
+		gravity = .25;
+		if(audio_is_playing(snd_playerFootstep)){
+			audio_stop_sound(snd_playerFootstep);	
+		}
 	}
 	else{
 		gravity = 0;	
