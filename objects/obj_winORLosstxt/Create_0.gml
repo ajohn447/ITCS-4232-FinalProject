@@ -3,6 +3,7 @@
 
 if (obj_charStats.attempts_left > 0){
 	text = "Nightmare Escaped";  //Win
+	
 }
 else{
 	text = "Trapped in the Nightmare. \nForever";   //Loss

@@ -28,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_FinishLine",
-    "path":"sprites/spr_FinishLine/spr_FinishLine.yy",
+    "name":"spr_Water",
+    "path":"sprites/spr_Water/spr_Water.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
