@@ -1,0 +1,62 @@
+CREDITS:
+
+ART:
+
+All art except the box design and the robot (enemy) created by Amanda Johnson (me) 2024.
+
+2D Robot created by Felcia1l (https://felicia1l.itch.io/2d-pixel-art-soldier-and-robots-sprite-pack)
+
+Pixel art abandoned factory tileset by iPixil (specifically the box design was used) (https://ipixl.itch.io/pixel-art-abandoned-factory-tileset) 
+Licensed under Creative Commons by Attribution 4.0
+https://creativecommons.org/licenses/by/4.0/
+
+SOUNDS: 
+
+ Fantasy Sound Effects Library by Little Robot Sound Factory (https://opengameart.org/content/fantasy-sound-effects-library)
+Licensed under Creative Commons by Attribution 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+
+Key pickup 2 by Vinrax (https://opengameart.org/content/key-pickup-2)
+Licensed under Creative Commons by Attribution 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+
+51 UI sound effects (buttons, switches and clicks) by Kenney (https://opengameart.org/content/51-ui-sound-effects-buttons-switches-and-clicks)
+CC0 - https://creativecommons.org/publicdomain/zero/1.0/
+
+
+Key Jiggle by spookymodem (https://opengameart.org/content/key-jiggle)
+Licensed under Creative Commons by Attribution 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+
+Horror Sound Effects Library by Little Robot Sound Factory (https://opengameart.org/content/horror-sound-effects-library)
+Licensed under Creative Commons by Attribution 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+Click by frosty ham (https://opengameart.org/content/click-0)
+CC0 - https://creativecommons.org/publicdomain/zero/1.0/
+
+
+
+Music Box Game Over II by KLY (https://opengameart.org/content/music-box-game-over-ii)
+Licensed under Creative Commons by Attribution 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+
+Music Box Game Over III by KLY (https://opengameart.org/content/music-box-game-over-iii)
+Licensed under Creative Commons by Attribution 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+
+Key pickup 2 by Vinrax (https://opengameart.org/content/key-pickup-2)
+Licensed under Creative Commons by Attribution 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+
+Abandoned Building Ambience by tcarisland (https://opengameart.org/content/abandoned-building-ambience)
+Licensed under Creative Commons by Attribution 4.0
+https://creativecommons.org/licenses/by/4.0/  and Open Game Art by 4.0 (https://opengameart.org/content/oga-by-40-faq)
+
+
